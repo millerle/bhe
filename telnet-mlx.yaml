@@ -1,0 +1,5 @@
+name: "telnet_mlx"
+runner_type: "python_script"
+description: "This connects to an MLX, authenticates simply and runs a command"
+enabled: true
+entry_point: "telnet_mlx.py"
