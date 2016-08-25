@@ -1,0 +1,5 @@
+name: "con-mlx.py"
+runner_type: "run-python"
+description: "This connects to an MLX, via either SSH or Telnet"
+enabled: true
+entry_point: "con-mlx.py"
